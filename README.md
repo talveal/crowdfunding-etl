@@ -3,6 +3,8 @@ Option-1 being used as per requirements to utilize Pandas dictionaries.
 
 For the ETL mini project, we worked in a team of four to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create a table schema. Finally, we uploaded the CSV file data into a Postgres database.
 
+After creating the table schema, we successfully created the 4 required tables and able to load the data successfully from 4 files into the newly created tables in PGAdmin. Once the data is loaded, we ran the select statement to pull the data from each table and provided screenshots in a pdf file for results coming from all 4 queris. 
+
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
 
