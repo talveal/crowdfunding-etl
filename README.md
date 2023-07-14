@@ -1,4 +1,6 @@
 # Project 2: Group 7 Crowdfunding-ETL 
+Team Members: Rehman Butt, Tatiana Alveal, Susan Abraham, & Crystal Burkhardt 
+
 Option-1 being used as per requirements to utilize Pandas dictionaries.
 
 For the ETL mini project, we worked in a team of four to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create a table schema. Finally, we uploaded the CSV file data into a Postgres database.
