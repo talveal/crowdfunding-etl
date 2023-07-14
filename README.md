@@ -1,4 +1,4 @@
-# $${\color{blue} Project 2: Group 7 Crowdfunding-ETL 
+# Project 2: Group 7 Crowdfunding-ETL 
 ## Team Members: Rehman Butt, Tatiana Alveal, Susan Abraham, & Crystal Burkhardt 
 
 Option-1 being used as per requirements to utilize Pandas dictionaries.
